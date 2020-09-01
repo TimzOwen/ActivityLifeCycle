@@ -4,7 +4,7 @@ Meet up 5. IndiaTechDroids on Android life cycle on activities
 
 [Read on Life Cycle](https://developer.android.com/reference/android/app/Activity.html#ActivityLifecycle)
 
-"""
+```
  public class Activity extends ApplicationContext {
      protected void onCreate(Bundle savedInstanceState);
 
@@ -20,6 +20,6 @@ Meet up 5. IndiaTechDroids on Android life cycle on activities
 
      protected void onDestroy();
  }
- """
+ ```
 
 
